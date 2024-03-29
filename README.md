@@ -10,6 +10,6 @@ My dataset page website
 <LineChart
   data="https://raw.githubusercontent.com/rufaro-dato/datahubcloud/main/BTC-USD.csv"
   title="High x Year"
-  xAxis="Date"
+  xAxis="Date(Day)"
   yAxis="High"
 />
