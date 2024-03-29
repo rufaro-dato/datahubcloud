@@ -10,9 +10,6 @@ My dataset page website
 <LineChart
   data="https://raw.githubusercontent.com/rufaro-dato/datahubcloud/main/BTC-USD.csv"
   title="High x Year"
-  xAxis={{
-    dataKey: 'Date', // Specify the key for the x-axis data
-    type: 'category' // Assuming Date values are discrete categories
-  }}
+  xAxis="Date: {month}"
   yAxis="High"
 />
