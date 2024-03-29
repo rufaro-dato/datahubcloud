@@ -8,7 +8,7 @@ My dataset page website
 
 ## Data as a line chart
 <LineChart
-  data="[BTC-USD.csv](https://github.com/rufaro-dato/datahubcloud/blob/main/BTC-USD.csv)"
+  data="https://github.com/rufaro-dato/datahubcloud/blob/main/BTC-USD.csv"
   title="High x Year"
   xAxis="Date"
   yAxis="High"
