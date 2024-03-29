@@ -9,7 +9,7 @@ My dataset page website
 ## Data as a line chart
 <LineChart
   data="https://raw.githubusercontent.com/rufaro-dato/datahubcloud/main/BTC-USD.csv"
-  title="High x Day"
-  xAxis="Date"
+  title="High x Year"
+  xAxis="Date (day)"
   yAxis="High"
 />
